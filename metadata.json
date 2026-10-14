@@ -1,0 +1,6 @@
+{
+  "name": "Steph's Nails & Beauty",
+  "description": "Steph's Nail Studio and Beauty Services in Embu Town & County. Services, prices, home service booking, Friends Deal discount, bridal & ruracio glam packages, M-PESA deposits, beautician portal, and calendar sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
